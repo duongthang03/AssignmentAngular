@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "sp2czxv edit",
+      "image": "https://picsum.photos/200/300",
+      "price": 5000,
+      "count": 20,
+      "category": "3"
+    },
+    {
+      "name": "sp2cxzv",
+      "image": "https://picsum.photos/200/300",
+      "price": 50000,
+      "count": 10,
+      "category": "2",
+      "id": 3
+    },
+    {
+      "name": "sp5cxzv",
+      "image": "https://picsum.photos/200/300",
+      "price": 800,
+      "count": 10,
+      "category": "1",
+      "id": 4
+    },
+    {
+      "name": "TplVylB3dYo",
+      "image": "https://picsum.photos/200/300",
+      "price": 500,
+      "count": 50,
+      "category": "1",
+      "id": 5
+    },
+    {
+      "name": "Xanhdecor",
+      "image": "https://picsum.photos/200/300",
+      "price": 5000,
+      "count": 20,
+      "category": "3",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "kame03112004@gmail.com",
+      "password": "$2a$10$9svHtAPSZX8PVGDWhP8tKeYVAZ8wCLmZHSfyAUpWrXrOGdsCUOUAm",
+      "name": "duongthang",
+      "id": 3
+    },
+    {
+      "email": "user1@gmail.com",
+      "password": "$2a$10$HpWV4FogBpISjDaAdaZe/.XD7KoraWPij6zV5n75gnEdoA2hbThNu",
+      "name": "duongthang",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "name": "danh mục 1",
+      "id": 1
+    },
+    {
+      "name": "danh mục 2",
+      "id": 2
+    },
+    {
+      "name": "danh mục 3",
+      "id": 3
+    }
+  ]
+}
